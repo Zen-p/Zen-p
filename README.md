@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Evgenij 👋
 
-<!--
-**Zen-p/Zen-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java backend developer with experience in building scalable applications and microservices. Here's what I work with:
 
-Here are some ideas to get you started:
+## 🛠️ My Stack
+- **Java**: 17 - 21 (Streams, Records)
+- **Frameworks**: Spring (Boot, Cloud, Data), Hibernate
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Docker, Kubernetes, Git
+- **CI/CD**: GitHub Actions, Jenkins
+- **Messaging**: RabbitMQ (AMQP)
+- **Additional**: Linux (shell scripting, system administration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+⭐️ Let's connect!
