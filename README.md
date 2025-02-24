@@ -1,3 +1,7 @@
+<h1 align="center">Hi there! 👋 I'm Eugene</h1>
+<h2 align="center">a Java developer</h2>h2>
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -9,7 +13,7 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![English](https://img.shields.io/badge/English-B1/B2-blue?style=for-the-badge&logo=google-translate)
 
-<h1 align="center">Hi there! 👋 I'm Eugene, a Java developer.</h1>
+
 
 
 My tech stack:
