@@ -6,8 +6,7 @@
 I am a Java Backend Developer
 
 
-<h3>Contact me:</h3>
-
+**Contact me:**
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24">](https://t.me/YJ1nn)[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="24" height="24">](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)  
 
 
