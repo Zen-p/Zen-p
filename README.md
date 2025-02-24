@@ -4,6 +4,10 @@
 </h1>
 
 </br>I am a Java Backend Developer
+### Contact me:  
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YJ1nn)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)  
 
 ```java
     public static void main(String[] args) {
@@ -29,7 +33,7 @@
 
 
 
-**What I do:**
+**About me:**
 - Java & Spring (Boot, MVC, Cloud, Data JPA) backend.
 - SQL, Hibernate, Liquibase.
 - RabbitMQ/Kafka integration.
