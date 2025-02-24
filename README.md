@@ -37,7 +37,7 @@ I am a Java Backend Developer
 ### Additional Skills:
 
 **Backend Tools:**  
-  ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=white)  
+  ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=black&color=white)
   ![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)  
 
 **Development Tools:**  
@@ -48,7 +48,7 @@ I am a Java Backend Developer
 **Microservices:**  
   ![Eureka](https://img.shields.io/badge/Netflix_Eureka-E50914?style=flat-square&logo=netflix&logoColor=white)  
   ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=openapi-initiative&logoColor=white)  
-
+<br>
 
 ### 🤝 About me:  
 - **Responsibility** – Always see things through to the end.  
