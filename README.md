@@ -1,5 +1,7 @@
-<h1 id="header" align="center">Hi there! 👋 I'm Eugene</h1>
-<h2 id="header" align="center">a Java backend developer</h2>h2>
+<div>
+  <h1 align="center">Hi there! 👋 I'm Eugene</h1>
+<h2 align="center">a Java backend developer</h2>
+</div>
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
