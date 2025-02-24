@@ -1,5 +1,3 @@
-### Hi there! 👋 I'm Zhenya, a Java developer.
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -10,6 +8,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![English](https://img.shields.io/badge/English-B1/B2-blue?style=for-the-badge&logo=google-translate)
+
+<h1 align="center">Hi there! 👋 I'm Eugene, a Java developer.</h1>
+
+
+My tech stack:
+- Java 8, 17, 21
+- Spring (Core, Boot, MVC, Cloud, Data JPA)
+- Hibernate
+- SQL (MySQL, PostgreSQL, etc.)
+- Message queues: RabbitMQ, Kafka (intermediate level)
+- Kubernetes (basic knowledge)
+- Git, Liquibase
 
 **What I do:**
 - Java & Spring (Boot, MVC, Cloud, Data JPA) backend.
