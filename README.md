@@ -1,8 +1,9 @@
 
-<h1 align="center" style="border: 0;">
+<h1>
   Hi there! 👋 I'm Eugene </br>
-  <span style="font-size: 30%;">a Java backend developer</span>
 </h1>
+
+
 
 **My tech stack:**</br></br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,10 +13,12 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![English](https://img.shields.io/badge/English-B1/B2-blue?style=for-the-badge&logo=google-translate)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ```java
     public static void main(String[] args) {
