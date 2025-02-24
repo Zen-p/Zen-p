@@ -1,7 +1,6 @@
-<div>
-  <h1 align="center" style="border: 0;">Hi there! 👋 I'm Eugene</h1>
-  <h2 align="center" style="border: 0;">a Java backend developer</h2>
-</div>
+<h1 align="center" style="border: 0;">Hi there! 👋 I'm Eugene, a Java backend developer</h1>
+
+
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
