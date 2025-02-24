@@ -1,4 +1,9 @@
-<h1 align="center" style="border: 0;">Hi there! 👋 I'm Eugene, </br><span style="font-size: 15px;">a Java backend developer</span></h1>
+Copy
+
+<h1 align="center" style="border: 0;">
+  Hi there! 👋 I'm Eugene, </br>
+  <span style="font-size: 80%;">a Java backend developer</span>
+</h1>
 
 
 
