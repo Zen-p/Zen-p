@@ -35,7 +35,7 @@ I am a Java Backend Developer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 🤝 Soft Skills:  
+### 🤝 About me:  
 - **Responsibility** – Always see things through to the end.  
 - **Problem-solving** – Analyze challenges and find solutions.  
 - **Curiosity** – Enjoy learning new technologies to improve efficiency.  
