@@ -4,10 +4,11 @@
 </h1>
 
 </br>I am a Java Backend Developer
-### Contact me:  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YJ1nn)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)  
+
+### Contact me:  
+[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24">](https://t.me/YJ1nn)  
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="24" height="24">](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)  
 
 ```java
     public static void main(String[] args) {
