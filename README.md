@@ -38,7 +38,7 @@ I am a Java Backend Developer
 **Backend Tools:**
 
   ![Lombok](https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=lombok&logoColor=white)  
-  ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=whit
+  ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
 **Development Tools:**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
