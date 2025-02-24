@@ -3,8 +3,9 @@
   Hi there! 👋 I'm Eugene </br>
 </h1>
 
-**I am a Java Backend Developer**
-```java
+</br>I am a Java Backend Developer
+
+```
     public static void main(String[] args) {
         System.out.println("Java is more than just a language :)");
     }
