@@ -5,7 +5,7 @@
 
 </br>I am a Java Backend Developer
 
-```
+```java
     public static void main(String[] args) {
         System.out.println("Java is more than just a language :)");
     }
