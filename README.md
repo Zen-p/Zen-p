@@ -6,11 +6,6 @@
 I am a Java Backend Developer
 
 
-**Contact me:**
-
-[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="32" height="32">](https://t.me/YJ1nn)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="32" height="32">](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)
-
 
 ```java
     public static void main(String[] args) {
@@ -50,4 +45,12 @@ I am a Java Backend Developer
 - **Responsibility** – Always see things through to the end.  
 - **Problem-solving** – Analyze challenges and find solutions.  
 - **Curiosity** – Enjoy learning new technologies to improve efficiency.  
-- **Attention to detail** – Fix small issues in code to avoid bugs.  
+- **Attention to detail** – Fix small issues in code to avoid bugs.
+
+
+
+
+**Contact me:**
+
+[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="32" height="32">](https://t.me/YJ1nn)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="32" height="32">](https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr)
