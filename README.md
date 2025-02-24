@@ -3,9 +3,14 @@
   Hi there! 👋 I'm Eugene </br>
 </h1>
 
+**I am a Java Backend Developer**
+```java
+    public static void main(String[] args) {
+        System.out.println("Java is more than just a language :)");
+    }
+```
 
-
-**My tech stack:**</br></br>
+<h2>My tech stack:</h2></br></br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -20,21 +25,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-```java
-    public static void main(String[] args) {
-        System.out.println("Java is more than just a language :)");
-    }
-```
 
-
-My tech stack:
-- Java 8, 17, 21
-- Spring (Core, Boot, MVC, Cloud, Data JPA)
-- Hibernate
-- SQL (MySQL, PostgreSQL, etc.)
-- Message queues: RabbitMQ, Kafka (intermediate level)
-- Kubernetes (basic knowledge)
-- Git, Liquibase
 
 **What I do:**
 - Java & Spring (Boot, MVC, Cloud, Data JPA) backend.
