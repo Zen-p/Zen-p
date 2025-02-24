@@ -46,7 +46,7 @@ I am a Java Backend Developer
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 **Microservices:**  
-  ![Eureka](https://img.shields.io/badge/Eureka-E50914?style=for-the-badge&logo=netflix&logoColor=white)  
+  ![Eureka](https://img.shields.io/badge/Netflix_Eureka-E50914?style=for-the-badge&logo=netflix&logoColor=white)  
   ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=openapi-initiative&logoColor=white)  
 
 
