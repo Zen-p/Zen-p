@@ -18,11 +18,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```java
-
     public static void main(String[] args) {
-        System.out.println("Java is more than just a language");
+        System.out.println("Java is more than just a language :)");
     }
-'''
+```
 
 
 My tech stack:
