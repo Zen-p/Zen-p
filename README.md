@@ -5,12 +5,13 @@
 
 </br>I am a Java Backend Developer
 
-<div style="display: flex; align-items: center; gap: 10px;">
   <span>Contact me:</span>
-  <a href="https://t.me/YJ1nn" target="_blank">
+<div style="display: flex; align-items: center; gap: 10px;">
+
+  <a href="https://t.me/YJ1nn" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="24" height="24">
   </a>
-  <a href="https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/just_you.dzhin?igsh=ODMybjc1MWRxeTl2&utm_source=qr" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="24" height="24">
   </a>
 </div>
