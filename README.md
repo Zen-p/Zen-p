@@ -35,7 +35,6 @@ I am a Java Backend Developer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Additional Skills:
-
 **Backend Tools:**  
   ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=black&color=white) ![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)  
   
