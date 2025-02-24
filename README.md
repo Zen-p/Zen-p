@@ -2,7 +2,7 @@ Copy
 
 <h1 align="center" style="border: 0;">
   Hi there! 👋 I'm Eugene, </br>
-  <span style="font-size: 80%;">a Java backend developer</span>
+  <span style="font-size: 30%;">a Java backend developer</span>
 </h1>
 
 
