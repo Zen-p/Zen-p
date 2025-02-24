@@ -31,7 +31,7 @@ I am a Java Backend Developer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=databricks&logoColor=white)
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Additional Skills:
