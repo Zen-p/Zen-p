@@ -37,21 +37,14 @@ I am a Java Backend Developer
 ### Additional Skills:
 
 #### Backend Tools:
-- **Lombok**:  
   ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=white)  
-- **REST API**:  
   ![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)  
 #### Development Tools:
-- **Git**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-- **Maven**:  
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)  
-- **Postman**:  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 #### Microservices:
-- **Netflix Eureka**:  
   ![Eureka](https://img.shields.io/badge/Netflix_Eureka-E50914?style=flat-square&logo=netflix&logoColor=white)  
-- **OpenFeign**:  
   ![OpenFeign](https://img.shields.io/badge/OpenFeign-000000?style=flat-square&logo=openfeign&logoColor=white)  
 
 
