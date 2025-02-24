@@ -1,6 +1,6 @@
 <div>
   <h1 align="center" style="border: none;">Hi there! 👋 I'm Eugene</h1>
-  <h2 align="center" style="border: none;>a Java backend developer</h2>
+  <h2 align="center" style="border: none;">a Java backend developer</h2>
 </div>
 
 
