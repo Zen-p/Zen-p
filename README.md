@@ -36,7 +36,7 @@ I am a Java Backend Developer
 
 
 ### 🤝 Soft Skills:  
-- **Responsibility** – I always see things through to the end.  
-- **Problem-solving** – I analyze challenges and find solutions.  
-- **Curiosity** – I learn new technologies to improve efficiency.  
-- **Attention to detail** – I fix small issues in code to avoid bugs.  
+- **Responsibility** – Always see things through to the end.  
+- **Problem-solving** – Analyze challenges and find solutions.  
+- **Curiosity** – Enjoy learning new technologies to improve efficiency.  
+- **Attention to detail** – Fix small issues in code to avoid bugs.  
