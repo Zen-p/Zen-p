@@ -31,9 +31,11 @@ I am a Java Backend Developer
 
 ### Additional Skills:
 **Backend Tools:**
-  ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=black&color=white)
-  ![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
-  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+<br>
+![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat-square&logo=lombok&logoColor=black&color=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+
   
 
 **Development Tools:**  
