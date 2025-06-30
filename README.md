@@ -28,6 +28,8 @@ I am a Java Backend Developer
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6E00?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### Additional Skills:
 **Backend Tools:**
