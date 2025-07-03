@@ -31,6 +31,7 @@ I am a Java Backend Developer
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6E00?style=for-the-badge&logo=circleci&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing_JUnit/Mockito/Testcontainers-25A162?style=for-the-badge&logo=testng&logoColor=white)
 
 ### Additional Skills:
 **Backend Tools:**
